@@ -85,9 +85,9 @@ require (
 	github.com/kubernetes/apimachinery v0.0.0-20190119020841-d41becfba9ee
 	github.com/kylelemons/godebug v1.1.0 // indirect
 	github.com/leesper/go_rng v0.0.0-20190531154944-a612b043e353 // indirect
-	github.com/lib/pq v1.3.0 // indirect
+	github.com/lib/pq v1.3.0
 	github.com/mailru/easyjson v0.0.0-20180717111219-efc7eb8984d6 // indirect
-	github.com/mattn/go-sqlite3 v2.0.3+incompatible // indirect
+	github.com/mattn/go-sqlite3 v2.0.3+incompatible
 	github.com/matttproud/golang_protobuf_extensions v1.0.1
 	github.com/mdlayher/apcupsd v0.0.0-20190314144147-eb3dd99a75fe
 	github.com/miekg/dns v1.0.14
